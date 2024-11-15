@@ -1,0 +1,6 @@
+@ImageOrganization_HostAddress = http://localhost:5252
+
+GET {{ImageOrganization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
